@@ -1,0 +1,1 @@
+./safezone /home/apm/apm_phase5/ENet/final_model_weights/bn_conv_merged_model.prototxt /home/apm/apm_phase5/ENet/final_model_weights/bn_conv_merged_weights.caffemodel /home/apm/apm_phase5/ENet/example_image/munich_000000_000019_leftImg8bit.png /home/apm/apm_phase5/ENet/scripts/cityscapes19.png
